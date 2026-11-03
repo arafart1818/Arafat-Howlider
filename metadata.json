@@ -1,0 +1,8 @@
+{
+  "name": "Auto 1920x1080 Image Converter",
+  "description": "ড্রাগ করে ছবি ড্রপ করলেই তৎক্ষণাৎ ১৯২০x১০৮০ রেজোলিউশনে কনভার্ট ও অটোমেটিক ডাউনলোড। Instant Full HD 1920x1080 Image Resizer with Auto Download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
